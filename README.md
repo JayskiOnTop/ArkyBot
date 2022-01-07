@@ -24,3 +24,5 @@ https://discord.gg/k8hDZmyZtE
 Leave your marks here bois (edit the README and add your name):
 
 **dart was here**
+
+**vike was here**
