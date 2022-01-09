@@ -4,7 +4,7 @@
 And i also have lost all respect to arky so do whatever you want with the source and also fork it incase it gets termed.
 
 
-# Errors and fixes, 
+## Errors and fixes
 
 You might get some vs build tool errors so use VS 2022 and 
 you might get DiscordRPC errors so delete SRC file if needed with the discord rpc code.
@@ -22,6 +22,9 @@ it is the trollery indeed.
 
 Discord server: 
 https://discord.gg/k8hDZmyZtE
+
+
+## Marks
 
 Leave your marks here bois (edit the README and add your name):
 
