@@ -15,7 +15,9 @@ if theres any errors just open a issue and ill help you i might not check often
 dart made this repository, acee, slash handle the repo with issues. because i wont be checking in on it either ways
 
 DartOnTop
-![troll](https://cdn.discordapp.com/emojis/690075871322964017.webp?size=80&quality=lossless).
+
+![troll](https://cdn.discordapp.com/emojis/690075871322964017.webp?size=80&quality=lossless)
+
 it is the trollery indeed.
 
 Discord server: 
