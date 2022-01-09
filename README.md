@@ -6,7 +6,7 @@ And i also have lost all respect to arky so do whatever you want with the source
 
 ## Errors and fixes
 
-You might get some vs build tool errors so use VS 2022
+You might get some vs build tool errors so use VS 2022 (mainly v143 build tools, older have errors)
 
 if theres any errors just open a issue and ill help you i might not check often
 
